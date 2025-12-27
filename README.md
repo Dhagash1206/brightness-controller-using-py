@@ -1,23 +1,28 @@
 # brightness-controller-using-py
-Description
+# **Windows Brightness Controller**
 
-Simple Tkinter-based GUI to control screen brightness
-Uses nircmd.exe on Windows
-Provides slider-based brightness adjustment
+**A simple, lightweight Windows GUI application for controlling screen brightness**
 
-Features
-Dark grey themed interface
-Slider (0–100%) brightness control
-One-click apply button
-Lightweight and fast
+## **Overview**
+This tool allows users to adjust system brightness easily using a clean graphical interface built with Python.
 
-Requirements
-Windows OS
-Python 3.x
-nircmd.exe available locally
+## **Key Features**
+- Slider-based brightness control (0–100)
+- Instant apply button for changes
+- Minimal, distraction-free UI
+- Lightweight and fast execution
+- Uses NirCmd for Windows-level control
+- No background services required
 
-Usage
-Run python brightness_gui.py
-Move slider → click Apply
+## **Tech Stack**
+- Python
+- Tkinter
+- NirCmd (https://www.nirsoft.net/utils/nircmd.html)
+- Bash/MSYS2
 
-<img width="320" height="201" alt="image" src="https://github.com/user-attachments/assets/91e1ba09-41fe-4fd0-b2aa-473c48e182e5" />
+## **Requirements**
+- Python/ Tkinter
+- NirCmd configured
+<img width="298" height="180" alt="Screenshot 2025-12-27 043148" src="https://github.com/user-attachments/assets/8e17b2f4-4b98-4d73-8818-9fd214b995fe" />
+
+
